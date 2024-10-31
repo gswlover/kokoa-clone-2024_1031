@@ -1,3 +1,3 @@
 #Kokoa Clone 2024 Udate (1031)
 
-CSS got so much better!
+HTML and CSS got so much better!
